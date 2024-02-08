@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IcmApp</string>
+    <string name="applicationimage"><img src="@drawable/imc" /></string>
+</resources>
